@@ -1,0 +1,10 @@
+temper
+ location and date
+ search input  current location button
+ tem-max 
+ tem-min
+ wind-speed 
+ humidity
+ https://api.openweathermap.org/data/2.5/weather?q=thrissur&appid=b41ec3be35c7dac8aabbc21ba253137a
+
+ 
